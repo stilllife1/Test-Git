@@ -4,3 +4,5 @@ git init - инициализация гита
 git status - состояние
 
 ## Lesson 2
+
+Github
