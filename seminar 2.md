@@ -6,4 +6,6 @@ git status - состояние
 ## Lesson 2
 git branch – выводит ветки
 
-Github version 2.
+
+
+Github version 3.1.
